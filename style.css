@@ -31,6 +31,34 @@ body{
     text-align: center;
 }
 
+nav{
+    height: 20px;
+    background-color:rgb(176, 162, 202);
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 30px;
+}
+
+.in-nav{
+    display:inline-block;
+    margin-left: 30px;
+
+}
+
+.in-nav:hover{
+    background-color: aquamarine;
+    font-size:larger;
+}
+
+.in-nav a:active{
+    color: red;
+}
+.in-nav a{
+    color: dimgrey;
+    text-decoration: none;
+}
+
 li{
     font-size:medium;
 }
