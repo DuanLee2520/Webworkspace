@@ -19,9 +19,12 @@ body {
 
 
     header {
-        width: auto;
+        width: 0 auto;
         height: 280px;
         outline: 2px saddlebrown solid;
+        position: fixed;
+            left: 0px;
+            right: 0px;
     }
 
         .top_words {
