@@ -34,24 +34,32 @@ body {
             width: auto;
             height: 160px;
             outline: 2px rgb(3, 2, 1) solid;
+            background-color: aqua;
         }
             .logol{
                 float: left;
                 width: 300px;
-                height: 160px;
+                height: 100px;
                 outline: 2px rgb(3, 2, 1) solid;
             }
             .search{
                 float: left;
                 width: 800px;
-                height: 160px;
+                height: 100px;
                 outline: 2px rgb(3, 2, 1) solid;
             }
             .customer_sign_in{
                 float: left;
+                width: 300px;
+                height: 100px;
+                outline: 20px rgb(13, 117, 235) solid;
+            }
+            .navigation_bar{
                 width: auto;
-                height: 160px;
-                outline: 2px rgb(3, 2, 1) solid;
+                height: 60px;
+                outline: 2px rgb(247, 113, 4) solid;
+                background-color: bisque;
+                clear: both;
             }
 
         .bulletin {
